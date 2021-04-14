@@ -4,10 +4,10 @@ In this deep learning project, i have successfully detected COVID-19 from Chest 
 
 ## Steps: <br/>
 
-● Dataset Preparation
-● Understanding the Dataset
-● Building a CNN
-● Model Training
+● Dataset Preparation<br/>
+● Understanding the Dataset<br/>
+● Building a CNN<br/>
+● Model Training<br/>
 
 ### (THIS LINK CONTAINS X-RAY IMAGES OF COVID-NEGATIVE PATIENTS) <br/>
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
